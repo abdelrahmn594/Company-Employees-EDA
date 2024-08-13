@@ -1,2 +1,2 @@
 # Company-Employees-EDA
-Data Analysis Project on Employees using Python
+Data Analysis Project on Employees Data using Python
